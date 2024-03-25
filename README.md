@@ -1,2 +1,2 @@
 # Java-estruturas de dados
-#Exercicios de estudo - lógica, vetores, matrizes.
+#Exercicios de estudo - lógica, vetores, matrizes, pilhas
