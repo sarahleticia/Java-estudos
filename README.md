@@ -1,2 +1,2 @@
-# Java-atividade-estruturas de dados
+# Java-estruturas de dados
 #Exercicios de estudo - lógica, vetores, matrizes.
